@@ -6856,6 +6856,18 @@ PrefabInstance:
       propertyPath: m_RootOrder
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 7221526614117387661, guid: a9a2742a1f90d41499e730a456562edd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7660445
+      objectReference: {fileID: 0}
+    - target: {fileID: 7221526614117387661, guid: a9a2742a1f90d41499e730a456562edd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.6427876
+      objectReference: {fileID: 0}
+    - target: {fileID: 7221526614117387661, guid: a9a2742a1f90d41499e730a456562edd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -80
+      objectReference: {fileID: 0}
     - target: {fileID: 7221526614117387662, guid: a9a2742a1f90d41499e730a456562edd, type: 3}
       propertyPath: gameOverHandler
       value: 
